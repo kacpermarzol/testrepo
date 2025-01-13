@@ -14,8 +14,9 @@ Przeanalizujemy jak wyglądają datasety dla takiego zagadnienia i omówimy 3 mo
 Prezentacja oraz 4 zadania pozwalające lepiej zrozumieć przekazywane treści znajdują się w notatniku dynamic.ipynb. Ponadto, repozytorium składa się z:
 * folderu pics (do celów prezentacji)
 * folderu helpers - gdzie znajdziemy kod potrzebny do wizualizacji D-NeRFa
-* folderu logs - gdzie powinniśmy umieścić folder 'lego' pobrany [stąd](https://www.dropbox.com/scl/fi/5oyd2uop62yw1ttlw1x5v/logs.zip?rlkey=5ko5sf3njkjv3vssonk1jmruy&e=1&dl=0), jest to checkpoint dla D-NeRF (nie jest to konieczne do wykonania zadań)
 * pliku requirements.txt dla stworzenia środowiska
+
+ponadto powinniśmy stworzyć folder logs, gdzie umieścimy folder 'lego' pobrany [stąd](https://www.dropbox.com/scl/fi/5oyd2uop62yw1ttlw1x5v/logs.zip?rlkey=5ko5sf3njkjv3vssonk1jmruy&e=1&dl=0), jest to checkpoint dla D-NeRF (nie jest to konieczne do wykonania zadań)
 
 ### Tworzenie środowiska
 W pliku requirements.txt znajduje się lista modułów niezbędna do stworzenia środowiska i odpalenia notebooka.
