@@ -31,8 +31,7 @@ pip install -r requirements.txt
 ### Źródła:
 * [D-NeRF: Neural Radiance Fields for Dynamic Scenes
 ](https://openaccess.thecvf.com/content/CVPR2021/papers/Pumarola_D-NeRF_Neural_Radiance_Fields_for_Dynamic_Scenes_CVPR_2021_paper.pdf)
-* [https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf](3D Gaussian Splatting for Real-Time Radiance Field Rendering
-)
+* [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)
 * [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://arxiv.org/pdf/2310.08528)
 * [DUSt3R: Geometric 3D Vision Made Easy](https://arxiv.org/pdf/2312.14132)
 * [MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion](https://monst3r-project.github.io/files/monst3r_paper.pdf)
